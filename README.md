@@ -1,5 +1,5 @@
 # StevenT99.github.io
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Gotcha</title>
