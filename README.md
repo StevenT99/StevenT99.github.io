@@ -1,5 +1,3 @@
-# StevenT99.github.io
-
 <html>
   <head>
     <title>Gotcha</title>
