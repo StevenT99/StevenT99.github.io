@@ -1,10 +1,8 @@
-Copy code
 <html>
   <head>
     <title>Gotcha</title>
   </head>
   <body>
-    <h1 style="text-align:center;">Gotcha Boiiiiiiiiiiiiiiii</h1>
     <center>
     <div style="text-align:center;">
         <div style="width:800px;max-width:100%;">
@@ -15,8 +13,11 @@ Copy code
         </div>
     </div>
     </center>
-    <p style="text-align:center;">You have been phished. That was def a fake gmail link from a fake email address haha.  Do not tell or warn your coworkers and be ready to get roasted at all hands on friday by yours truly <3 Stevoooo</p>
-    
+    <center>
+    <div style="background-color: #f2f2f2; padding: 20px; width: 50%;">
+    <h2 style="font-size: 2em;">You have been phished. That was def a fake gmail link from a fake email address haha. Do not tell or warn your coworkers and be ready to get roasted at all hands on friday by yours truly <3 Stevoooo</h2>
+    </div>
+    </center>
     <center>
     <div style="text-align:center;">
         <div style="width:800px;max-width:100%;">
@@ -28,3 +29,4 @@ Copy code
     </div>
     </center>
   </body>
+</html>
