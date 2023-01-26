@@ -15,7 +15,7 @@
     </center>
     <center>
     <div style="background-color: #f2f2f2; padding: 20px; width: 50%;">
-    <h2 style="font-size: 2em;">You have been phished. That was a fake email asking for your gmail login. Do not tell or warn your coworkers and be ready to get roasted at All Hands on friday by yours truly <3 Stevoooo</h2>
+    <h2 style="font-size: 2em;">You have been phished. That was a fake email asking for your gmail credentials. Do not tell or warn your coworkers and be ready to get roasted at All Hands on friday by yours truly <3 Stevoooo</h2>
     </div>
     </center>
     <center>
